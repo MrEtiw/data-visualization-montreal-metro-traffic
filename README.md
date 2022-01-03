@@ -17,3 +17,4 @@ End of semester project for Montreal Polytechnique's class *INF8808: Data Visual
 
 **ADDITIONAL INFOS:**
 - Project made in equal collaboration with Gregoire Dervaux (from which this repo is forked) and Jade Wong (not active on Github). 
+- Explanations and comments are in French.
